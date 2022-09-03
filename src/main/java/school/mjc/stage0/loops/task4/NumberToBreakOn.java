@@ -9,9 +9,6 @@ public class NumberToBreakOn {
             }
             System.out.println(i);
         }
-        if (i == toBreakWith) {
-            break;
-        }
 
     }
 }
